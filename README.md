@@ -37,7 +37,7 @@ project results -
       
         Fantasy                   evil, king, powers, magic, dragon, magical, vampire, werewolf, ancient, vampires
         
-Science Fiction                           earth, planet, alien, future, space, robot, human, virus, time, humanity
+    Science Fiction                           earth, planet, alien, future, space, robot, human, virus, time, humanity
 
           Crime                          police, cop, drug, fbi, murder, criminal, detective, mafia, gangster, mob
           
@@ -54,5 +54,4 @@ Science Fiction                           earth, planet, alien, future, space, r
         Romance                         love, romance, romantic, falls, woman, marriage, women, lover, meets, life
         
          Horror                horror, vampire, vampires, killer, group, zombies, terrifying, spirit, evil, deadly
-         
-        Mystery killer, clues, murder, mystery, mysterious, detective, investigation, murdered, disappearance, fbi
+         Mystery killer, clues, murder, mystery, mysterious, detective, investigation, murdered, disappearance, fbi
