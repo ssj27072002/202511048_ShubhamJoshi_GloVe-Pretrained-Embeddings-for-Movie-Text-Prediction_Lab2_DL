@@ -5,17 +5,17 @@ GloVe Pretrained Embeddings for Movie Text Prediction
 Name - Joshi Shubham 
 student id - 202511048
 
-Summary 
+Summary:
 
-Embeddings: GloVe (6B.100d) with TF-IDF weighted averaging.
+->Embeddings: GloVe (6B.100d) with TF-IDF weighted averaging.
 
-Models: Neural Networks for Regression (Ratings) and Multi-Label Classification (Genres).
+->Models: Neural Networks for Regression (Ratings) and Multi-Label Classification (Genres).
 
-Analysis: Logistic Regression for feature importance (TF-IDF weights).
+->Analysis: Logistic Regression for feature importance (TF-IDF weights).
 
-Key Results
+Key Results:
 
-Top Genre Indicators
+->Top Genre Indicators
 
 Action: mission, agent, battle, kidnapped
 
@@ -26,8 +26,11 @@ Horror: spirit, terrifying, vampire, evil
 Romance: marriage, romantic, lover, meets
 
 project results -
+
 --- TASK 6: HIGHEST POSITIVE-WEIGHT WORDS PER GENRE ---
+
           Genre                                                                                   Indicative Words
+          
          Action                  agent, cop, criminals, hero, ruthless, target, battle, mission, kidnapped, forces
          
       Adventure                      adventure, bond, world, earth, mission, jungle, king, park, dragon, dinosaurs
